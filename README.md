@@ -1,5 +1,5 @@
 # Crusader
-
+![ROS](https://img.shields.io/badge/ROS%20versions-Melodic-brightgreen)](https://wiki.ros.org)
 ## Overview
 Many mobile robots use a drive mechanism known as differential drive. It consists of 2 drive wheels mounted on a common axis, and each wheel can independently being driven either forward or backward. 
 This is a completely learning based project to understand the basics of Robot Operating System and Gazebo by making a **differential drive robot *simulation***. The bot, called Crusader, will be able to navigate an environment with obstacles autonomously. 
