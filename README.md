@@ -5,7 +5,7 @@ Many mobile robots use a drive mechanism known as differential drive. It consist
 This is a completely learning based project to understand the basics of Robot Operating System and Gazebo by making a **differential drive robot *simulation***. The bot, called Crusader, will be able to navigate an environment with obstacles autonomously. 
 
 ## Note
-No prior skills, except basic programming knowledge in Python, are required for this project. Ubuntu 18.01 (https://releases.ubuntu.com/18.04/) is required.
+No prior skills, except basic programming knowledge in Python, are required for this project. Ubuntu 18.04 (https://releases.ubuntu.com/18.04/) is required.
 
 ## Framework and Simulator
 Framework/Simulator| Resources | Description
