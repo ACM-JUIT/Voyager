@@ -7,8 +7,8 @@ This is a completely learning based project to understand the basics of Robot Op
 ## Note
 No prior skills, except basic programming knowledge in Python, are required for this project. Ubuntu 18.01 (https://releases.ubuntu.com/18.04/) is required.
 
-## Frameworks and Simulator
- | Resources | Description
+## Framework and Simulator
+Framework/Simulator| Resources | Description
 ------------ | ------------- | -------------
-Robot Operating System(ROS) | http://wiki.ros.org/,  http://wiki.ros.org/ROS/Tutorials/ | set of libraries and tools to create robot applications
-Gazebo | https://plotly.com/dash/ | A 3D robotics simulator that calculates physics, generates sensor data and provides convenient interfaces.
+Robot Operating System(ROS) | http://wiki.ros.org/,  http://wiki.ros.org/ROS/Tutorials/ | a flexible framework for writing robot software
+Gazebo | http://gazebosim.org/tutorials | A 3D robotics simulator that calculates physics, generates sensor data and provides convenient interfaces.
